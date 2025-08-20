@@ -1,6 +1,6 @@
-# 👋 안녕하세요, 오현우입니다!
+# 👋 안녕하세요 반갑습니다!
 
-**💻 Seoul, Korea 기반 개발자 | ❤️ 매일 성장하는 중**
+**❤️ 매일 성장하는 중**
 
 ---
 
@@ -8,9 +8,7 @@
 
 - 🌍 **거주지**: Seoul, Republic of Korea 🇰🇷
 - 💫 **좌우명**: ❤️ Growing (매일 성장)
-- 📝 **기술 블로그**: [ohhw.tistory.com](https://ohhw.tistory.com/)
-- 📸 **인스타그램**: [@xohhwx](https://www.instagram.com/xohhwx)
-- 🎯 **2025 목표**: 풀스택 개발자 되기
+- 🎯 **2025 목표**: System Master
 
 ---
 
@@ -85,8 +83,6 @@ const ohhw = {
 ## 📫 연락처
 
 - 📧 **GitHub**: [@ohhw](https://github.com/ohhw)
-- 📝 **기술블로그**: [ohhw.tistory.com](https://ohhw.tistory.com/)
-- 📷 **인스타그램**: [@xohhwx](https://www.instagram.com/xohhwx)
 
 ---
 
