@@ -2,8 +2,6 @@
 
 # 오현우입니다.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%98%A4%ED%98%84%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4;%F0%9F%9A%80+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A7%80%EB%A7%9D;%E2%9D%A4%EF%B8%8F+%EB%A7%A4%EC%9D%BC+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A4%91...)](https://git.io/typing-svg)
-
 **뭔가 하고 있긴 합니다..**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ohhw&color=brightgreen&style=flat-square&label=Profile+Views)
