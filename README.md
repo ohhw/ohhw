@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 안녕하세요! 오현우입니다!
+# 오현우입니다.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%98%A4%ED%98%84%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4;%F0%9F%9A%80+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A7%80%EB%A7%9D;%E2%9D%A4%EF%B8%8F+%EB%A7%A4%EC%9D%BC+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A4%91...)](https://git.io/typing-svg)
 
-**✨ 열심히 그리고 조금씩 공부하며 성장하고 있습니다 ✨**
+**뭔가 하고 있긴 합니다..**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ohhw&color=brightgreen&style=flat-square&label=Profile+Views)
 
@@ -12,19 +12,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-🌱 **꾸준한 성장**을 위해 노력합니다
-
-- 🌍 **거주지**: Seoul, Republic of Korea 🇰🇷
-- 💫 **좌우명**: ❤️ Growing (매일 성장)
-- 🎯 **2025 목표**: System Master & Full-Stack Developer
-- 🔥 **관심분야**: 웹 개발, 백엔드 시스템, DevOps
-- 📚 **현재 학습 중**: 시스템 아키텍처, 클라우드 서비스
-
----
-
-## 🛠️ 기술 스택 & 도구
+## 여기 사용된 기술 스택 & 도구
 
 <div align="center">
 
@@ -91,22 +79,10 @@
 
 </div>
 
-### 📈 주요 활동 지표
-- 📊 **총 리포지토리**: 7개
-- 🔥 **2025년 기여도**: 활발히 진행 중
-- 🏆 **GitHub 성취**: 🦈 Pull Shark Achievement
-- ⭐ **주요 언어**: HTML, Python, .NET
-
-```
-📈 언어 사용 통계
-HTML     ████████████████████ 60%  - 프론트엔드 학습 집중
-Python   ████████ 25%           - 백엔드 개발 확장
-.NET     ████ 15%               - 시스템 개발 탐구
-```
 
 ---
 
-## 🎯 개발 철학 & 목표
+## 🎯 나름의 개발 목표
 
 <div align="center">
 
@@ -124,11 +100,11 @@ const 오현우 = {
     },
     
     dailyRoutine: [
-        "☀️ 코딩 실력 향상",
-        "🚀 새로운 프로젝트 도전", 
-        "📝 기술 블로그 작성",
-        "🔍 최신 기술 트렌드 학습",
-        "🤝 개발 커뮤니티 참여"
+        "코딩 실력 향상",
+        "새로운 프로젝트 도전", 
+        "기술 블로그 작성",
+        "최신 기술 트렌드 학습",
+        "개발 커뮤니티 참여"
     ],
     
     currentFocus: "Building solid foundation in web development",
@@ -155,26 +131,11 @@ console.log("매일 조금씩 성장하는 개발자 💪");
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohhw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-**💬 언제든 편하게 연락주세요!**
+**언제든 편하게 연락주십시요.**
 
 </div>
 
 ---
-
-## 🌟 마무리 인사
-
-<div align="center">
-
-> ### **"매일 조금씩 나아지는 사람되기"** 💫
-> 
-> 새로운 기술을 배우고, 의미있는 프로젝트를 만들며,  
-> 다른 개발자들과 지식을 나누는 것이 저의 목표입니다.
->
-> **함께 성장하는 개발자가 되겠습니다! 🚀**
-
----
-
-### 🎉 방문해주셔서 감사합니다!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ohhw&color=brightgreen&style=flat-square&label=Profile+Views)
 
