@@ -10,14 +10,6 @@
 
 ---
 
-## 📚 프로젝트 포트폴리오
-
-<div align="center">
-
-[![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ohhw&repo=ohhw&theme=vue-dark)](https://github.com/ohhw/ohhw)
-
-</div>
-
 ### 🌐 웹 개발 스터디
 > HTML/CSS/JavaScript 기반 프론트엔드 학습 프로젝트들
 
