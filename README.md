@@ -10,7 +10,7 @@
 
 ---
 
-### 🌐 웹 개발 스터디
+### 🌐 이것저것 해봅니다.
 > HTML/CSS/JavaScript 기반 프론트엔드 학습 프로젝트들
 
 | 🚀 프로젝트 | 📝 설명 | 🛠️ 기술스택 | 🔗 Link |
@@ -20,74 +20,20 @@
 | [study_4cuts](https://github.com/ohhw/study_4cuts) | 네컷 사진 제작 프로젝트 | HTML, CSS, JS | [Demo](https://github.com/ohhw/study_4cuts) |
 | [study_miniprofile](https://github.com/ohhw/study_miniprofile) | 개인 미니 프로필 페이지 | HTML, CSS | [Demo](https://github.com/ohhw/study_miniprofile) |
 
-### 🐍 Python 프로젝트
+### 🐍 Python 프로젝트도 해봅니다.
 > 파이썬을 활용한 백엔드 및 데이터 처리 프로젝트
 
 | 🚀 프로젝트 | 📝 설명 | 🛠️ 기술스택 | 🔗 Link |
 |-------------|----------|-------------|----------|
 | [forest](https://github.com/ohhw/forest) | 파이썬 기반 종합 프로젝트 | Python | [Repo](https://github.com/ohhw/forest) |
 
-### ⚙️ 개발 환경 & DevOps
+### ⚙️ 개발 환경 & DevOps도 해봅니다.
 > 개발 환경 구성 및 배포 자동화 프로젝트
 
 | 🚀 프로젝트 | 📝 설명 | 🛠️ 기술스택 | 🔗 Link |
 |-------------|----------|-------------|----------|
 | [dotnet_env](https://github.com/ohhw/dotnet_env) | .NET 개발환경 구성 및 설정 | .NET, Docker | [Repo](https://github.com/ohhw/dotnet_env) |
 
----
-
-## 📊 GitHub 통계
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohhw&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohhw&layout=compact&theme=vue-dark&hide_border=true)
-
-</div>
-
-
----
-
-## 🎯 나름의 개발 목표
-
-<div align="center">
-
-```javascript
-const 오현우 = {
-    name: "오현우 (Oh Hyun Woo)",
-    location: "Seoul, South Korea 🇰🇷",
-    currentRole: "Aspiring Full-Stack Developer",
-    motto: "❤️ Growing Every Day",
-    
-    goals2025: {
-        technical: "System Master",
-        personal: "Consistent Growth",
-        contribution: "Open Source Projects"
-    },
-    
-    dailyRoutine: [
-        "코딩 실력 향상",
-        "새로운 프로젝트 도전", 
-        "기술 블로그 작성",
-        "최신 기술 트렌드 학습",
-        "개발 커뮤니티 참여"
-    ],
-    
-    currentFocus: "Building solid foundation in web development",
-    nextStep: "Advancing to full-stack development"
-};
-
-console.log("매일 조금씩 성장하는 개발자 💪");
-```
-
-</div>
-
-### 🌟 핵심 가치
-- **🔥 지속적 학습**: 매일 새로운 것을 배우고 적용
-- **💡 창의적 문제해결**: 다양한 관점으로 문제 접근  
-- **🤝 협업과 소통**: 지식 공유와 팀워크 중시
-- **⚡ 실행력**: 계획을 실제 결과로 만들어내는 힘
 
 ---
 
