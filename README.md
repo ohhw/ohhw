@@ -1,7 +1,5 @@
 <div align="center">
 
-# 오현우입니다.
-
 **뭔가 하고 있긴 합니다..**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ohhw&color=brightgreen&style=flat-square&label=Profile+Views)
