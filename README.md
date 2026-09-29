@@ -1,58 +1,19 @@
-<div align="center">
+# ohhw
 
-**뭔가 하고 있긴 합니다..**
+작은 문제를 오래 들여다보고, 쓸 수 있는 형태로 만듭니다.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ohhw&color=brightgreen&style=flat-square&label=Profile+Views)
+웹 서비스와 데이터·AI 도구를 다룹니다.
+빠르게 보이는 결과보다, 이해한 만큼 단단하게 만드는 과정을 좋아합니다.
 
-</div>
+## selected work
 
----
+- **[forest](https://github.com/ohhw/forest)** — CUDA, PyTorch, YOLO 환경과 반복 작업을 정리한 컴퓨터 비전 도구
+- **[dotnet_env](https://github.com/ohhw/dotnet_env)** — ASP.NET Core와 Razor Pages로 만든 웹 애플리케이션
 
-### 🌐 이것저것 해봅니다.
-> HTML/CSS/JavaScript 기반 프론트엔드 학습 프로젝트들
+## private work
 
-| 🚀 프로젝트 | 📝 설명 | 🛠️ 기술스택 | 🔗 Link |
-|-------------|----------|-------------|----------|
-| [study_momentum](https://github.com/ohhw/study_momentum) | 새해 다짐 모멘텀 클론 코딩 | HTML, CSS, JS | [Demo](https://github.com/ohhw/study_momentum) |
-| [study_newyearplan](https://github.com/ohhw/study_newyearplan) | 새해 계획 관리 웹사이트 | HTML, CSS, JS | [Demo](https://github.com/ohhw/study_newyearplan) |
-| [study_4cuts](https://github.com/ohhw/study_4cuts) | 네컷 사진 제작 프로젝트 | HTML, CSS, JS | [Demo](https://github.com/ohhw/study_4cuts) |
-| [study_miniprofile](https://github.com/ohhw/study_miniprofile) | 개인 미니 프로필 페이지 | HTML, CSS | [Demo](https://github.com/ohhw/study_miniprofile) |
+로컬 언어 모델, 검색 기반 응답, 학습용 웹 서비스를 만들고 기록하고 있습니다.
 
-### 🐍 Python 프로젝트도 해봅니다.
-> 파이썬을 활용한 백엔드 및 데이터 처리 프로젝트
+`Python` · `TypeScript` · `.NET` · `Machine Learning` · `Automation`
 
-| 🚀 프로젝트 | 📝 설명 | 🛠️ 기술스택 | 🔗 Link |
-|-------------|----------|-------------|----------|
-| [forest](https://github.com/ohhw/forest) | 파이썬 기반 종합 프로젝트 | Python | [Repo](https://github.com/ohhw/forest) |
-
-### ⚙️ 개발 환경 & DevOps도 해봅니다.
-> 개발 환경 구성 및 배포 자동화 프로젝트
-
-| 🚀 프로젝트 | 📝 설명 | 🛠️ 기술스택 | 🔗 Link |
-|-------------|----------|-------------|----------|
-| [dotnet_env](https://github.com/ohhw/dotnet_env) | .NET 개발환경 구성 및 설정 | .NET, Docker | [Repo](https://github.com/ohhw/dotnet_env) |
-
-
----
-
-## � 연락하기
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohhw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xohhwx@gmail.com)
-
-**언제든 편하게 연락주십시요.**
-
-</div>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ohhw&color=brightgreen&style=flat-square&label=Profile+Views)
-
-⭐ **이 프로필이 도움이 되셨다면 Star를 눌러주세요!** ⭐
-
-[![GitHub Followers](https://img.shields.io/github/followers/ohhw?style=social)](https://github.com/ohhw)
-[![GitHub Stars](https://img.shields.io/github/stars/ohhw?style=social)](https://github.com/ohhw)
-
-</div>
+일부 작업은 개인정보와 운영 환경을 포함해 비공개로 관리합니다.
